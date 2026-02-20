@@ -46,3 +46,6 @@ Site, mum ışığında kitap okuma ambiyansını hissettirecek şekilde tasarla
 - Daha gelişmiş kullanıcı arayüzü
 - Responsive (mobil uyumlu) tasarım
 
+🌐 **Canlı Site:**  
+https://busra3442.github.io/mum_isiginda_edebiyat/
+
