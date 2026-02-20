@@ -42,9 +42,10 @@ Site, mum ışığında kitap okuma ambiyansını hissettirecek şekilde tasarla
 
 - CSS ile modern ve estetik tasarım
 - JavaScript ile dinamik yapı
-- Kullanıcı cevaplarını kaydetme sistemi
+- Ziyaretçi cevaplarını kaydetme sistemi
 - Daha gelişmiş kullanıcı arayüzü
-- Responsive (mobil uyumlu) tasarım
+- Ziyaretçilerin verdiği cevaplara göre analizler
+- Daha fazla yazar ve daha estetik bir tasarım
 
 🌐 **Canlı Site:**  
 https://busra3442.github.io/mum_isiginda_edebiyat/
